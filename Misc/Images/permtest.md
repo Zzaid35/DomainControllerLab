@@ -1,21 +1,21 @@
 Active Directory, Users
-![Active Directory, Organizational Units & Groups](	Images/ActiveDirectory.png)
+![Active Directory, Organizational Units & Groups](ActiveDirectory.png)
 
 Monty User Properties
 
 
-![Monty](Images/Monty.png)
+![Monty](Monty.png)
 
 Sales Properties
 
 
-![sales](Images/SalesProps.png)
+![sales](SalesProps.png)
 
 
 Confirm entry into sales folder
 
-![confirm](Images/Confirmation.png)
+![confirm](Confirmation.png)
 
 Rejection for unauthorized folder
 
-![reject](Images/Denial.png)
+![reject](Denial.png)
