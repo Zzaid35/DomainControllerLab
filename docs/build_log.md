@@ -58,7 +58,7 @@ Every permission was decided before anything was built. For each cell: *does thi
 | Open `\\DC01\IT` | Access denied | ✅ Pass |
 | Open other department folders | Access denied | ✅ Pass |
 
-![Access denied test](images/access-denied.png)
+[Access denied test](../Misc/Images/permtest.md)
 
 ---
 
