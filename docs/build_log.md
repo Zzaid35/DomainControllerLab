@@ -147,7 +147,7 @@ ZaidCo
 └── Disabled Users
 ```
 
-- Five departments, each with a department head and a staff member.
+- Five departments, each with a department head and staff members.
 - Each user got a temporary password with "change at next logon," plus Title, Department, and Manager filled in.
 
 ![OU structure](images/ou-structure.png)
