@@ -1,5 +1,5 @@
 ﻿cd C:\Shares\Scripts
-$users = Import-Csv .\user.csv
+$users = Import-Csv .\new-user.csv
 $password = Read-Host "Enter temp password" -AsSecureString
 foreach ($user in $users){
 $username = $user.firstname.toLower() + $user.lastname.toLower()
