@@ -87,7 +87,7 @@ Every permission was decided before anything was built. For each cell: *does thi
 - Downloaded the Windows Server 2025 evaluation ISO and the VirtIO driver ISO.
 - Created the VM: 2 vCPU, 4 GiB RAM, 60 GB disk.
 
-![Cockpit VM](Images/ou-structure.png)
+![Cockpit VM](docs/Images/cockpit-vm.png)
 
 </details>
 
