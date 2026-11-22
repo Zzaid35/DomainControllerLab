@@ -150,7 +150,7 @@ ZaidCo
 - Five departments, each with a department head and staff members.
 - Each user got a temporary password with "change at next logon," plus Title, Department, and Manager filled in.
 
-![OU structure](images/ou-structure.png)
+![OU structure](Images/ou-structure.png)
 
 </details>
 
