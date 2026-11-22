@@ -1,5 +1,5 @@
 ﻿cd C:\Shares\Scripts
-$users = Import-Csv .\user.csv
+$users = Import-Csv .\offboarding-user.csv
 
 foreach ($user in $users){
 $firstname = $user.firstname
