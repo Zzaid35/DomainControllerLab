@@ -177,8 +177,8 @@ ZaidCo
 <summary><b>7. File shares and NTFS permissions</b></summary>
 
 ```powershell
-New-Item -ItemType Directory -Path C:\Shares\Sales
-New-SmbShare -Name Sales -Path C:\Shares\Sales -FullAccess "Authenticated Users"
+New-Item -ItemType Directory -Path C:\Shares\Departments\Sales
+New-SmbShare -Name Sales -Path C:\Shares\Departments\Sales -FullAccess "Authenticated Users"
 ```
 
 Repeated for HR, Finance, IT, Management, and Company.
