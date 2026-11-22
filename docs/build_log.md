@@ -169,7 +169,7 @@ ZaidCo
 - Folder permissions are set once. Access changes happen through group membership, which also makes access reviews easy.
 - `Domain Users` grants company-wide read on the Company folder.
 
-![Group nesting](images/group-nesting.png)
+![Group nesting](Images/group-nesting.png)
 
 </details>
 
@@ -188,7 +188,7 @@ Repeated for HR, Finance, IT, Management, and Company.
 
 > In production, file shares belong on a dedicated file server, not a DC. They're on DC01 here because of lab RAM limits.
 
-![NTFS permissions](images/ntfs-permissions.png)
+![NTFS permissions](Images/ntfs-permissions.png)
 
 </details>
 
